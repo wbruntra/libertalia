@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/libertalia/static/css/main.bf46b0ea.chunk.css",
-    "main.js": "/libertalia/static/js/main.a5866ed4.chunk.js",
-    "main.js.map": "/libertalia/static/js/main.a5866ed4.chunk.js.map",
+    "main.js": "/libertalia/static/js/main.20c99d43.chunk.js",
+    "main.js.map": "/libertalia/static/js/main.20c99d43.chunk.js.map",
     "runtime-main.js": "/libertalia/static/js/runtime-main.b974c0b5.js",
     "runtime-main.js.map": "/libertalia/static/js/runtime-main.b974c0b5.js.map",
     "static/js/2.1fda4fc3.chunk.js": "/libertalia/static/js/2.1fda4fc3.chunk.js",
     "static/js/2.1fda4fc3.chunk.js.map": "/libertalia/static/js/2.1fda4fc3.chunk.js.map",
     "index.html": "/libertalia/index.html",
-    "precache-manifest.dffd7ec16693f0a0c0a18b494afb6d71.js": "/libertalia/precache-manifest.dffd7ec16693f0a0c0a18b494afb6d71.js",
+    "precache-manifest.2cfa097c4ad692fde97d9071a56de4fc.js": "/libertalia/precache-manifest.2cfa097c4ad692fde97d9071a56de4fc.js",
     "service-worker.js": "/libertalia/service-worker.js",
     "static/css/main.bf46b0ea.chunk.css.map": "/libertalia/static/css/main.bf46b0ea.chunk.css.map",
     "static/js/2.1fda4fc3.chunk.js.LICENSE.txt": "/libertalia/static/js/2.1fda4fc3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b974c0b5.js",
     "static/js/2.1fda4fc3.chunk.js",
     "static/css/main.bf46b0ea.chunk.css",
-    "static/js/main.a5866ed4.chunk.js"
+    "static/js/main.20c99d43.chunk.js"
   ]
 }

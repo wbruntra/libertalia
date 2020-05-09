@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbfe3067f7aca893778951561a8457ee",
+    "revision": "c83f291413c9778adf6e80ea96830fb8",
     "url": "/libertalia/index.html"
   },
   {
-    "revision": "185658f3dbf61676e962",
+    "revision": "4aed25b8bc66855f01fd",
     "url": "/libertalia/static/css/main.bf46b0ea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/libertalia/static/js/2.1fda4fc3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "185658f3dbf61676e962",
-    "url": "/libertalia/static/js/main.a5866ed4.chunk.js"
+    "revision": "4aed25b8bc66855f01fd",
+    "url": "/libertalia/static/js/main.20c99d43.chunk.js"
   },
   {
     "revision": "1b1b881319a0714c2ba9",

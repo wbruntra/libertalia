@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/libertalia/precache-manifest.dffd7ec16693f0a0c0a18b494afb6d71.js"
+  "/libertalia/precache-manifest.2cfa097c4ad692fde97d9071a56de4fc.js"
 );
 
 self.addEventListener('message', (event) => {
